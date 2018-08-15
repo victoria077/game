@@ -1,0 +1,1 @@
+This application is a game written in JS. The goal of this game is to help develop memory. The player sees a series of cards, where the each card has a pair. After which the cards turn their backs. The task of the player is to remember where the card and its pair are located. 
